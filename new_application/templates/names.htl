@@ -1,0 +1,10 @@
+<html>
+<body>
+<form method="GET" action="http://localhost:5000/result">
+	<label>How old are you?
+		<input name="num" value="0" type="number">
+	</label></br>
+	<input type="submit" value="Submit">
+</form>
+</body>
+</html>
